@@ -10,11 +10,6 @@ interface FilterControlsProps {
   onAddNew: () => void;
 }
 
-const SeverityIndicator = ({ severity }: { severity: Severity }) => {
-  return (
-    <span className={`severity-indicator severity-${severity.toLowerCase()}`} />
-  );
-};
 
 const FilterControls = ({
   severityFilter,
