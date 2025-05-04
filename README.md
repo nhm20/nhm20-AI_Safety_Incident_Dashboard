@@ -25,7 +25,7 @@ This is a take-home frontend assignment for the Frontend Intern position at Huma
 
 ---
 ## Access the Deployment at 
-
+-https://nhm20-ai-safety-incident-dashboard-q67q-f1318be5k.vercel.app/
 
 ## 📦 Installation & Running Locally
 
