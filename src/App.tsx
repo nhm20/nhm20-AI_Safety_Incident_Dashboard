@@ -3,7 +3,7 @@ import { Incident, Severity, SortOrder } from "./types/Incident";
 import IncidentCard from "./components/IncidentCard";
 import IncidentForm from "./components/IncidentForm";
 import FilterControls from "./components/FilterControls";
-import "./App.css";
+import "./index.css";
 
 const initialIncidents: Incident[] = [
   {
