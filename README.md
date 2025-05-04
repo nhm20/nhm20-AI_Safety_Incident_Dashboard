@@ -24,11 +24,15 @@ This is a take-home frontend assignment for the Frontend Intern position at Huma
 - Clean and accessible UI.
 
 ---
+## Access the Deployment at 
+
 
 ## 📦 Installation & Running Locally
 
 1. **Clone the Repository**
 
 ```bash
-git clone [https://github.com/yourusername/ai-safety-dashboard.git](https://github.com/nhm20/nhm20-AI_Safety_Incident_Dashboard/edit/main/README.md).git
-cd ai-safety-dashboard
+git clone https://github.com/nhm20/nhm20-AI_Safety_Incident_Dashboard.git
+cd nhm20-AI_Safety_Incident_Dashboard
+npm install
+npm run dev
